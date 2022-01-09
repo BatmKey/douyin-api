@@ -1,0 +1,2 @@
+error: Error: Command failed: git commit -m "update" && git push origin master
+
