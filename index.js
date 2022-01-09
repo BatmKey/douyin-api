@@ -12,5 +12,5 @@ const execCMD = function(cmd){
   })
 }
 //用&&连接多条CMD命令
-const cmd = 'git add --all :/ && git commit -m "auto update" && git push origin main';
+const cmd = 'echo "$(date +%s)" > /root/pros/douyin-api/record.txt && git commit -am "auto update" && git push origin main';
 execCMD(cmd);
