@@ -1,0 +1,9 @@
+error: Error: Command failed: echo "$(date +%s)" > record.txt && git add -A && git commit -am "auto commit" && git push origin main
+To git@github.com:henry2ee/douyin-api.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'git@github.com:henry2ee/douyin-api.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
