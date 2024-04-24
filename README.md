@@ -27,7 +27,7 @@
 
 ## 防失联
 
-[tele](./tel.png) 
+[tele](./tele.png) 
 
 
 ## 全球代理推荐
