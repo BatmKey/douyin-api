@@ -23,9 +23,9 @@
 * 不交流破解方案，切勿将数据用于不正当用途。
 
 
-联系微信（batmkey）、
+联系微信（batmkey） 、
 
-## 防失联
+## Telegram 防失联
 
 ![tele](./tele.png) 
 
