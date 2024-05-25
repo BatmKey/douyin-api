@@ -4,7 +4,7 @@
 
 ## 官网
 
-[官网介绍](http://www.bestapi.live) 
+[官网介绍](https://api.ai6u.com/) 
 
 详情wx咨询 
 
